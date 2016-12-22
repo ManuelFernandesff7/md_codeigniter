@@ -45,13 +45,14 @@
                 </nav>
             </div>
         </header>
-        <div class="mdl-layout__drawer mdl-layout--small-screen-only">
+        <div class="mdl-layout__drawer mdl-layout--small-screen-only" style="background-color: rgb(255,193,7);">
             <nav class="mdl-navigation mdl-typography--body-1-force-preferred-font">
-                <a class="mdl-navigation__link is-active" href="index.html">Inicio</a>
-                    <a class="mdl-navigation__link" href="blog.html">Conócenos</a>
-                    <a class="mdl-navigation__link" href="about.html">Biblioteca digital</a>
-                    <a class="mdl-navigation__link" href="contact.html">Bibliotecas</a>
-                    <a class="mdl-navigation__link" href="contact.html">Herramientas</a>
-                    <a class="mdl-navigation__link" href="contact.html">Portal UANL</a>
+                <a class="mdl-navigation__link is-active" href="index.html"><strong>Inicio</strong></a>
+                    <a class="mdl-navigation__link" href="blog.html"><strong>Conócenos</strong></a>
+                    <a class="mdl-navigation__link" href="about.html"><strong>Biblioteca digital</strong></a>
+                    <a class="mdl-navigation__link" href="contact.html"><strong>Bibliotecas</strong></a>
+                    <a class="mdl-navigation__link" href="contact.html"><strong>Herramientas</strong></a>
+                    <a class="mdl-navigation__link" href="contact.html"><strong>Portal UANL</strong></a>
             </nav>
         </div>
+        <main class="mdl-layout__content">
