@@ -133,7 +133,7 @@
                         Se les invita a participar en la Encuesta Nacional CONRICYT 2016 del 21 de noviembre al 16 de diciembre a todos los académicos/ investigadores; estudiantes de pre y post grado, así como a los directores de biblioteca y bibliotecarios en general.
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html" data-upgraded=",MaterialButton,MaterialRipple">Read more<span class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></a>
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html" data-upgraded=",MaterialButton,MaterialRipple" style="color: black;"> <strong>Leer más</strong><span class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></a>
                     </div>
                 </div>
                 <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
@@ -149,7 +149,7 @@
                         al 2 de enero de 2017
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html" data-upgraded=",MaterialButton,MaterialRipple">Read more<span class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></a>
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html" data-upgraded=",MaterialButton,MaterialRipple" style="color: black;"><strong>Leer más</strong><span class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></a>
                     </div>
                 </div>
                 <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card" style="padding-top: 30px;">
