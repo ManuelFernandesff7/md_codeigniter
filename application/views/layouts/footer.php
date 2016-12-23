@@ -59,7 +59,18 @@ y el Sistema Integral de Bibliotecas de la UANL</div>
 </footer>
         </main>
     </div>
-
+ <style>
+    #view-source {
+      position: fixed;
+      display: block;
+      right: 0;
+      bottom: 0;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      z-index: 900;
+    }
+    </style>
+      <a href="https://github.com/google/material-design-lite/blob/mdl-1.x/templates/text-only/" target="_blank" id="view-source" class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored"><i class="material-icons">email</i></a>
 <script src="https://code.getmdl.io/1.0.6/material.min.js"></script>
 </body>
 
