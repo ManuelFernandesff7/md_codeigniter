@@ -152,7 +152,7 @@
                         <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="portfolio-example01.html" data-upgraded=",MaterialButton,MaterialRipple" style="color: black;"><strong>Leer más</strong><span class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></a>
                     </div>
                 </div>
-                <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card" style="padding-top: 30px;">
+                <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card" style="padding-top: 30px;   padding-left: 5px;padding-right: 5px;">
                    <!-- Contact Chip -->
                 <span class="mdl-chip mdl-chip--contact">
                 <img class="mdl-chip__contact" src="imagenes/rm2.png"></img>
@@ -169,7 +169,7 @@
                 </span><br />
                 <span class="mdl-chip mdl-chip--contact">
                 <img class="mdl-chip__contact" src="imagenes/rm-capbib.jpg"></img>
-                    <span class="mdl-chip__text">Capacitación para Bibliotecarios</span>
+                    <span class="mdl-chip__text">Capacitación (Bibliotecarios)</span>
                 </span><br />
                 <span class="mdl-chip mdl-chip--contact">
                 <img class="mdl-chip__contact" src="imagenes/rm-bolsadetrabajo.jpg"></img>
